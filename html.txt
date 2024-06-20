@@ -1,0 +1,58 @@
+1.  list out features of html5?
+ans:-  some of the main feature of html5 are as follow:-
+
+a. audio and video:- audio and video feature are introduce in a html5. we can give the
+ height and width of the video, and the additional feature like broder, css feature, it's use
+in the  html5. in control tage we can get video active.
+b. canvas element:- in use of canvas element we can create the interative graphic within 
+ a web page.
+c. local storage:- local storage introduce in a html5, it can use for the better or fast experience 
+do not travel much, like the previous html model.
+d. form improvement:- html5 introduce improvement in forms, like date, time new input type, new 
+attribute like required etc.
+
+
+2. What are HTML Entities? List out 5 commonly used HTML entities.
+ans:- html entities represent symbols and special charater that we can use to get our web page more 
+effective.
+some are commonly use html entities such as follow:-
+a. greater than(>):- we can create > symbol to use &gt or &#62.
+b. less than(<):- we can create < symbol to use &lt or &#60.
+c. ampersand (&):-  we can create & symbol to use &amp or &#38.
+d. non-breaking space :- we can create use &nbsp or &#160.
+e. copy :- we can create use &copy or &#169.
+
+3. Define accessibility in the context of web development? Discuss why it's essential to create accessible
+websites and how it benefits different user groups?
+ans:- we can must create accessibility website; to refer designing and coding website create 
+such like that the disability person also can use the website very easily. 
+
+inclusivity:- accessible website create that everyone use the website very easily included 
+the disable person. In content or web designing create such like that.
+business growth:- accessible website reach a wider audience,loyalty and potencial base customer.
+legal compliance:- many countries have laws requiring website to the accessible avoiding legal 
+issue.
+benefit of the different user:- 
+visual impairments:- accessibility provide screen reader support and text alternatives for the 
+blind or visualy impairment user.
+elderly users:-Accessible websites accommodate age-related limitations, ensuring usability
+for elderly users.
+Motor Disabilities: Keyboard navigation and easy-to-click elements assist users with motor limitation
+
+4. list any 3 ways which help us in improving the accessibility of HTML?
+ans. 1. use semantic html element:- semantic element is use to create a accessible webiste that can 
+help the disability person to understand. such like header, main, footer, content.
+2. use color with care:- color play in important role in web design, we can use color like that to
+make our website accessiable. so that low vision can also read without any issue.
+3.Provide alt text for images: adding descriptive alt text to images using the alt attribute ensures that users who
+cannot see the images can understand their content and purpose. 
+
+
+
+
+
+
+
+
+
+
